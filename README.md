@@ -232,9 +232,15 @@ The following functionality has been tested successfully in the local developmen
 
 ## Deployment
 
-The application is being prepared for deployment using MonsterASP.NET.
+The application is successfully deployed and hosted on MonsterASP.NET.
 
-The public Swagger URL and deployment details will be added after deployment is completed.
+**Live API Documentation (Swagger):**
+
+http://products-api.runasp.net/swagger
+
+**Hosting Provider:** MonsterASP.NET
+
+**Deployment Type:** ASP.NET Core Web API (.NET 10)
 
 ## Project Status
 
@@ -242,7 +248,7 @@ The public Swagger URL and deployment details will be added after deployment is 
 - Database integration: Completed.
 - Authentication and authorization: Tested successfully.
 - CRUD operations: Tested successfully.
-- Online deployment: In progress.
+- Online deployment: Completed.
 
 ## Author
 
