@@ -108,11 +108,9 @@ Install the following tools before running the project:
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/mak8924/Product-Management-API.git
+cd Product-Management-API
 ```
-
-Replace `YOUR_REPOSITORY_URL` with the actual GitHub repository URL and `YOUR_REPOSITORY_NAME` with the cloned folder name.
 
 ### 2. Restore Dependencies
 
